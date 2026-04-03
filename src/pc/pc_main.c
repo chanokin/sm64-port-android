@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include <sys/stat.h>
 
 #ifdef TARGET_WEB
 #include <emscripten.h>
