@@ -4,7 +4,7 @@ If you want to compile on Android using [Termux](https://f-droid.org/en/packages
 
 **Install dependencies:**
 ```sh
-pkg install git wget make python getconf zip apksigner clang mesa-dev sdl2
+pkg install git wget make python getconf zip apksigner clang mesa-dev sdl2 which
 ```
 
 **Clone the repository:**
